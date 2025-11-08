@@ -1,5 +1,6 @@
 # solid-octo-broccoli
-|--Project Description and Purpose
+  
+  |--Project Description and Purpose
   └──What problem does your project solve?
     └──It's a Event Planner (create events, holidays, RSVP, reminders)
 |Who is the target user?
